@@ -17,3 +17,4 @@ Runs on localhost:8080/SimpleMavenWebapp
 git add .
 sudo service jenkins start
 echo n v1.0
+\n v2.0
